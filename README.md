@@ -1,5 +1,5 @@
 - 👋 Hello there, welcome to my GitHub profile.
 - 💻 My main language is JavaScript, and I have slight experience with C#, Lua, and Python.
 - 🤖 Within JavaScript, I create Discord bots and FiveM scripts.
-- 🎈 I have currently made 10 Discord bots, 8 operational and 2 archived. I have also created numerous FiveM scripts, many of which can be found on my profile.
+- 🎈 I have currently made 10 Discord bots, 6 operational and 4 archived. I have also created numerous FiveM scripts, many of which can be found on my profile.
 - 💡 My goal is to pursue something within the programming/coding field as a career, but am currently putting time into this as a hobby.
